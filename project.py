@@ -12,7 +12,6 @@ sign.title("Sign UP")
 label2 = tk.Label(sign, text="SIGN UP", font=('Bold', 30))
 label2.pack(padx=50, pady=30)
 
-
 # Function to get the values and save them in a text file
 def get_values():
     name = text1.get()
