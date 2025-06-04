@@ -22,7 +22,6 @@ def get_values():
     file.write(" Username: " + username + " Password: " + password + "\n")
     file.close()
 
-
 # Function to generate a random password
 def generatepassword():
     all_values = [
