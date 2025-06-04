@@ -1,7 +1,7 @@
 import tkinter as tk
 import random as r
 
-##### SIGN UP PAGE #####
+#Sign up page
 
 # Create the Sign-Up window
 sign = tk.Tk()
