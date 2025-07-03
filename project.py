@@ -2,6 +2,7 @@ import tkinter as tk
 import random as r
 #Sign up page
 
+
 # Create the Sign-Up window
 sign = tk.Tk()
 sign.geometry("500x500")
