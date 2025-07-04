@@ -25,3 +25,4 @@ This project is a simple **Sign-Up and Login System** created using Python and T
 2. Run the script using Python:
    ```bash
    python <project>.py
+
