@@ -19,6 +19,7 @@ This project is a simple **Sign-Up and Login System** created using Python and T
 - Tkinter (built-in module in Python)
 - A text editor or IDE to run the script.
 
+
 ## How to Use
 1. Clone or download this repository to your local system.
 2. Run the script using Python:
