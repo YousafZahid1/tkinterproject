@@ -4,6 +4,7 @@ This project is a simple **Sign-Up and Login System** created using Python and T
 
 ## Features
 
+
 ### Sign-Up Page
 - Users can enter their name, username, and password to create an account.
 - A **Generate Password** button allows users to generate a random 12-character password.
